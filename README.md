@@ -38,12 +38,6 @@
 ✉️ [Email Me](mailto:your-email@example.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
 
-
-## 📫 Connect with Me  
-📍 Based in India  
-✉️ [Email Me](mailto:ananthjeethvuppala@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ananth-jeeth-vuppala-8bb499334)  
-
 ---
 ⭐️ *“Code. Learn. Improve. Repeat.”*
 
