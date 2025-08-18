@@ -10,33 +10,55 @@
 ## 🔧 Skills & Tools  
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-008000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
+</p>
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 **Libraries & Frameworks**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
 **CS Fundamentals**  
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-02569B?style=for-the-badge&logo=dependabot&logoColor=white)  
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF6F00?style=for-the-badge&logo=googletagmanager&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-02569B?style=for-the-badge&logo=dependabot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-FF6F00?style=for-the-badge&logo=googletagmanager&logoColor=white"/>
+</p>
 
 **Robotics & Embedded Systems**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+</p>
+
+**EDA & Simulation Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-B70000?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-CA1F26?style=for-the-badge&logo=cadence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteus-1B72BE?style=for-the-badge&logo=proteus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-0A8ED9?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+</p>
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)    
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+</p>     
 
 ---
 
@@ -60,13 +82,14 @@
 
 [![Email](https://img.shields.io/badge/Email-ananthjeeth%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthjeeth@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananth%20Jeeth%20Vuppala-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-jeeth-vuppala-8bb499334/)  
-[![GitHub](https://img.shields.io/badge/GitHub-ananthjeethvuppala-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananthjeethvuppala)    
+[![GitHub](https://img.shields.io/badge/GitHub-ananthjeethvuppala-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananthjeethvuppala)  
+[![Instagram](https://img.shields.io/badge/Instagram-ananthjeeth__vuppala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ananthjeeth_vuppala)      
 
 ---
 
 ## 🔖 Words of Wisdom  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark) 
+![Quote](https://quotes-github-readme.vercel.app/api?theme=radical&type=vertical)
 
 ---
 
