@@ -60,13 +60,13 @@
 
 [![Email](https://img.shields.io/badge/Email-ananthjeeth%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthjeeth@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananth%20Jeeth%20Vuppala-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-jeeth-vuppala-8bb499334/)  
-[![GitHub](https://img.shields.io/badge/GitHub-ananthjeeth-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananthjeeth)    
+[![GitHub](https://img.shields.io/badge/GitHub-ananthjeeth-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananthjeethvuppala)    
 
 ---
 
 ## 🔖 Words of Wisdom  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark) 
 
 ---
 
