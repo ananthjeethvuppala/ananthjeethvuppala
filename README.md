@@ -71,11 +71,35 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=dark" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthjeethvuppala&theme=dark" alt="GitHub Streak" height="160"/>
+<p>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=dark" 
+            media="(prefers-color-scheme: dark)" />
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=default" 
+            media="(prefers-color-scheme: light)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true" height="160" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala&theme=dark" 
+            media="(prefers-color-scheme: dark)" />
+          <source 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala&theme=default" 
+            media="(prefers-color-scheme: light)" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala" height="160" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -109,7 +133,17 @@
 
 ## 🔖 Words of Wisdom  
 
-![Quote](https://quotes-github-readme.vercel.app/api?theme=dark&type=vertical)
+<p>
+  <picture>
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?theme=dark&type=vertical" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?theme=light&type=vertical" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical" alt="Quote" />
+  </picture>
+</p>
 
 ---
 
