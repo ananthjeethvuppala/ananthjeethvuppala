@@ -89,7 +89,7 @@
 
 ## 🔖 Words of Wisdom  
 
-![Quote](https://quotes-github-readme.vercel.app/api?theme=radical&type=vertical)
+![Quote](https://quotes-github-readme.vercel.app/api?theme=dark&type=vertical)
 
 ---
 
