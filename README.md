@@ -73,34 +73,31 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=dark" 
-            media="(prefers-color-scheme: dark)" />
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=default" 
-            media="(prefers-color-scheme: light)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true" height="160" />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source 
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala&theme=dark" 
-            media="(prefers-color-scheme: dark)" />
-          <source 
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala&theme=default" 
-            media="(prefers-color-scheme: light)" />
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala" height="160" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=dark" 
+        media="(prefers-color-scheme: dark)" />
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true&theme=default" 
+        media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ananthjeethvuppala&show_icons=true" height="160" />
+    </picture>
+  </div>
+
+  <div>
+    <picture>
+      <source 
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala&theme=dark" 
+        media="(prefers-color-scheme: dark)" />
+      <source 
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala&theme=default" 
+        media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ananthjeethvuppala" height="160" />
+    </picture>
+  </div>
+</div>
 
 ---
 
