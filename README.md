@@ -73,7 +73,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
   <div>
     <picture>
       <source 
