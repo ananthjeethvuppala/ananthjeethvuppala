@@ -62,12 +62,14 @@
 
 ---
 
-## 📌 Featured Projects  
+## ​ Featured Projects  
 - 🐍 **Python Practice** → Exercises & coding challenges to strengthen problem-solving  
 - 🗄️ **SQL Queries** → Solved SQL challenges and built real-world database queries  
 - 📊 **Mini Data Projects** → Data manipulation & analysis using Pandas and NumPy  
-- 🤖 **[Autonomous Maze-Solving Robot](https://github.com/your-username/maze-solving-robot)** →  
-  Designed and developed an **autonomous robot** using STM32F446RE & ultrasonic sensors to navigate mazes, avoid obstacles, and perform real-time decision-making.  
+- 🤖 **[Autonomous Maze-Solving Robot](https://github.com/ananthjeethvuppala/Autonomous-Maze-Solver-Bot-using-Nucleo-Board)** →  
+  Designed a robot using STM32 Nucleo board & ultrasonic sensors for maze navigation and obstacle avoidance.  
+- 🎬 **[Movie Recommendation System](https://github.com/ananthjeethvuppala/Movie-Recommendation-System)** →  
+  Built a **content-based recommender** using the TMDB 5000 dataset with NLP & TF-IDF + cosine similarity for movie recommendations.  
 
 ---
 
