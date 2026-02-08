@@ -23,6 +23,16 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+**Cloud (AWS)**  
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/badge/Cloud%20Practitioner-Certified-FF9900?style=for-the-badge"/> -->
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge"/>
+</p>
+
 **Libraries & Frameworks**  
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
