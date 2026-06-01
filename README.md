@@ -35,6 +35,7 @@
 
 **Libraries & Frameworks**  
 <p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -72,15 +73,20 @@
 
 ---
 
-## ​ Featured Projects  
-- 🐍 **Python Practice** → Exercises & coding challenges to strengthen problem-solving  
-- 🗄️ **SQL Queries** → Solved SQL challenges and built real-world database queries  
-- 📊 **Mini Data Projects** → Data manipulation & analysis using Pandas and NumPy  
-- 🤖 **[Autonomous Maze-Solving Robot](https://github.com/ananthjeethvuppala/Autonomous-Maze-Solver-Bot-using-Nucleo-Board)** →  
-  Designed a robot using STM32 Nucleo board & ultrasonic sensors for maze navigation and obstacle avoidance.  
+## ​ Featured Projects     
 - 🎬 **[Movie Recommendation System](https://github.com/ananthjeethvuppala/Movie-Recommendation-System)** →  
   Built a **content-based recommender** using the TMDB 5000 dataset with NLP & TF-IDF + cosine similarity for movie recommendations.  
-
+- 🔍 **[Semantic Search Engine](https://github.com/ananthjeethvuppala/Semantic-search-engine)** →  
+  Developed a **semantic search system** using **sentence embeddings & cosine similarity** to retrieve contextually relevant results from text data.  
+- 📧 **[Spam Email Classifier](https://github.com/ananthjeethvuppala/Spam-email-classifier)** →  
+  Built a **machine learning model** to classify emails as **spam or ham** using **text preprocessing, NLP, and classification algorithms**.
+- 🛰️ **[AI-Driven Satellite Image Segmentation](https://github.com/ananthjeethvuppala/AI-Driven-Satellite-Image-Segmentation)** →  
+  Developed an **image segmentation system** for satellite imagery using **AI/deep learning techniques** to identify and classify land regions or objects.
+- 🤖 **[Autonomous Maze-Solving Robot](https://github.com/ananthjeethvuppala/Autonomous-Maze-Solver-Bot-using-Nucleo-Board)** →  
+  Designed a robot using STM32 Nucleo board & ultrasonic sensors for maze navigation and obstacle avoidance.
+- 🐍 **Python Practice** → Exercises & coding challenges to strengthen problem-solving  
+- 🗄️ **SQL Queries** → Solved SQL challenges and built real-world database queries  
+- 📊 **Mini Data Projects** → Data manipulation & analysis using Pandas and NumPy
 ---
 
 ## 📊 GitHub Stats
@@ -125,6 +131,7 @@
 ---
 
 ## 📈 What I’m Working On  
+- **Deploying an end-to-end ML project** — model → API → live demo, the full journey
 - Sharpening my **DSA skills** through LeetCode & coding contests  
 - Exploring **Data Science with Python** step by step  
 - Building small **real-world projects** in Python, SQL & Robotics  
