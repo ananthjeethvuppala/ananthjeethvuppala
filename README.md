@@ -146,6 +146,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananth%20Jeeth%20Vuppala-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-jeeth-vuppala-8bb499334/)  
 [![GitHub](https://img.shields.io/badge/GitHub-ananthjeethvuppala-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananthjeethvuppala)  
 [![Instagram](https://img.shields.io/badge/Instagram-ananthjeeth__vuppala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ananthjeeth_vuppala)      
+[![Resume](https://img.shields.io/badge/Resume-PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/AJ%20Resume%20-%20Software.pdf)
 
 ---
 
