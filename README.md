@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Ananth Jeeth Vuppala  
 
-💻 **Aspiring Software Engineer** passionate about Python, Data Science, and Robotics  
-🎓 Pursuing **B.Tech in Electronics & Communication Engineering** @ SNIST  
-🚀 Enthusiastic about **problem-solving, coding challenges, robotics, and building practical projects**  
-📚 Currently exploring **Data Science, Algorithms, Robotics, and Software Development best practices**  
+💻 **Aspiring Software Engineer** with a strong foundation in **Python, Machine Learning, NLP, and Data Science**  
+🎓 **B.Tech in Electronics & Communication Engineering** graduate from **Sreenidhi Institute of Science and Technology (SNIST), Hyderabad**  
+🛠️ Skilled in **Python, SQL, Scikit-learn, Pandas, NumPy, Git, Docker, and Machine Learning** with hands-on project experience  
+🤖 Passionate about building **AI-powered applications**, solving real-world problems, and creating scalable software solutions  
+🚀 Currently strengthening my **Data Structures & Algorithms, Software Development, and AI** skills through continuous learning and hands-on projects
 
 ---
 
@@ -65,11 +66,12 @@
 **Tools**  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>     
+</p>  
 
 ---
 
