@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ananth Jeeth Vuppala  
 
 💻 **Aspiring Software Engineer** with a strong foundation in **Python, Machine Learning, NLP, and Data Science**  
-🎓 **B.Tech in Electronics & Communication Engineering** graduate from **Sreenidhi Institute of Science and Technology (SNIST), Hyderabad**  
+🎓 **B.Tech in Electronics & Communication Engineering** graduate from **Sreenidhi Institute of Science and Technology, Hyderabad**  
 🛠️ Skilled in **Python, SQL, Scikit-learn, Pandas, NumPy, Git, Docker, and Machine Learning** with hands-on project experience  
 🤖 Passionate about building **AI-powered applications**, solving real-world problems, and creating scalable software solutions  
 🚀 Currently strengthening my **Data Structures & Algorithms, Software Development, and AI** skills through continuous learning and hands-on projects
